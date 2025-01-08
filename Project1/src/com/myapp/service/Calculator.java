@@ -5,6 +5,7 @@ public class Calculator {
 		return x+y;
 	}
 	public long sub(long x, long y) {
+		System.out.println("hello");
 		return x-y;
 	}
 }
